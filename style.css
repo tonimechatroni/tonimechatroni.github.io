@@ -1,21 +1,28 @@
 body{
-    background-color: #748bf5;
-    font-family: sans-serif; /*ohne nasen an den buchstaben*/
+    width: 900px;
+    max-width: 92% ;
+    background-color: #08073f;
+    font-family: Arial, Helvetica, sans-serif; /*ohne nasen an den buchstaben*/
     text-align: center;
-    margin: auto
+    margin: 0 auto;
+    
 }
 h1{
     font-size: 40pt;
+    color: white;
     
 }
 h2{
     font-size: 25pt;
-    
+    color: white;
 }
 p{
     font-size: 18pt;
+    color: white;
     
 }
 table{
     font-size: 18pt;
+    text-align: center;
+    color: white;
 }
