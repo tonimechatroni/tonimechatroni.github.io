@@ -1,0 +1,21 @@
+body{
+    background-color: #748bf5;
+    font-family: sans-serif; /*ohne nasen an den buchstaben*/
+    text-align: center;
+    margin: auto
+}
+h1{
+    font-size: 40pt;
+    
+}
+h2{
+    font-size: 25pt;
+    
+}
+p{
+    font-size: 18pt;
+    
+}
+table{
+    font-size: 18pt;
+}
